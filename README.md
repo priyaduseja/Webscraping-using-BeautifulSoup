@@ -1,5 +1,3 @@
-# Webscraping-using-BeautifulSoup
-
 # IMDb Top Rated Movies Web Scraping
 
 ## Overview
